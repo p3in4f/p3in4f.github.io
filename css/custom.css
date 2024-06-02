@@ -198,3 +198,12 @@
     -o-transform: scale(0.5);
   }
 
+/* custom.css */  
+#web_bg {  
+  background: url(https://img1.baidu.com/it/u=1226965355,3159833530&fm=253&fmt=auto&app=138&f=JPEG?w=1024&h=707);  
+  background-repeat: no-repeat;  
+  background-size: cover;  
+  /* 其他可能的背景样式设置（如果有的话） */  
+}
+
+/*https://img-baofun.zhhainiao.com/fs/f1f7c42f5bcad3a38ce1897746a5d7a8.jpg
