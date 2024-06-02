@@ -197,4 +197,11 @@
     -ms-transform: scale(0.5);
     -o-transform: scale(0.5);
   }
-  
+
+/* custom.css */  
+#web_bg {  
+  background: url(https://img-baofun.zhhainiao.com/fs/f1f7c42f5bcad3a38ce1897746a5d7a8.jpg);  
+  background-repeat: no-repeat;  
+  background-size: cover;  
+  /* 其他可能的背景样式设置（如果有的话） */  
+}
